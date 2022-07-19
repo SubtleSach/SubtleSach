@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sachin @SubtleSach 
+- 👋 Hi, I’m Sachin
 - 👀 I’m interested in Data Science, Machine Learning
 - 🌱 I’m currently learning Python for Data Analysis
 - 💞️ I’m looking to collaborate on data science and ml projects
